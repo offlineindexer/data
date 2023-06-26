@@ -1,0 +1,30 @@
+{
+	"provider": {
+		"id": "rarbg",
+		"name": "RarBG"
+	},
+	"release": {
+		"time": 1685577600,
+		"date": "2023-06-01"
+	},
+	"size": {
+		"download": 100948659,
+		"storage": 268955648,
+		"count": 1591037
+	},
+	"link": {
+		"web": "https://rarbg.to",
+		"source": "https://github.com/2004content/rarbg",
+		"orignal": [
+			"https://github.com/2004content/rarbg/raw/main/everything/everything.7z.001",
+			"https://github.com/2004content/rarbg/raw/main/everything/everything.7z.002",
+			"https://github.com/2004content/rarbg/raw/main/everything/everything.7z.003",
+			"https://github.com/2004content/rarbg/raw/main/everything/everything.7z.004",
+			"https://github.com/2004content/rarbg/raw/main/everything/everything.7z.005"
+		]
+	},
+	"data": [
+		"https://github.com/offlineindexer/data/raw/main/rarbg/data/data1.zip",
+		"https://github.com/offlineindexer/data/raw/main/rarbg/data/data2.zip"
+	]
+}
