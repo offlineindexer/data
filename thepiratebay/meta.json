@@ -1,0 +1,25 @@
+{
+	"provider": {
+		"id": "thepiratebay",
+		"name": "ThePirateBay"
+	},
+	"release": {
+		"time": 1569283200,
+		"date": "2019-09-24"
+	},
+	"size": {
+		"download": 67827947,
+		"storage": 133771264,
+		"count": 804995
+	},
+	"link": {
+		"web": "https://thepiratebay.org",
+		"source": "https://web.archive.org/web/20190915000000*/https://thepiratebay.org/static/dump/csv/torrent_dump_full.csv.gz",
+		"orignal": [
+			"https://web.archive.org/web/20190924160713if_/https://thepiratebay.org/static/dump/csv/torrent_dump_full.csv.gz"
+		]
+	},
+	"data": [
+		"https://github.com/offlineindexer/data/raw/main/thepiratebay/data/data1.zip"
+	]
+}
