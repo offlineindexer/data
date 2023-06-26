@@ -1,0 +1,25 @@
+{
+	"provider": {
+		"id": "torrentscsv",
+		"name": "TorrentsCSV"
+	},
+	"release": {
+		"time": 1687046400,
+		"date": "2023-06-18"
+	},
+	"size": {
+		"download": 34347229,
+		"storage": 67026944,
+		"count": 362262
+	},
+	"link": {
+		"web": "https://torrents-csv.ml",
+		"source": "https://git.torrents-csv.ml/heretic/torrents-csv-server",
+		"orignal": [
+			"https://git.torrents-csv.ml/heretic/torrents-csv-data/raw/branch/main/torrents.csv"
+		]
+	},
+	"data": [
+		"https://github.com/offlineindexer/data/raw/main/torrentscsv/data/data1.zip"
+	]
+}
