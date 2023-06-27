@@ -1,0 +1,30 @@
+{
+	"provider": {
+		"id": "torrentparadise",
+		"name": "TorrentParadise"
+	},
+	"release": {
+		"time": 1642377600,
+		"date": "2022-01-17"
+	},
+	"size": {
+		"download": 489919315,
+		"storage": 874745856,
+		"count": 5287859
+	},
+	"link": {
+		"web": "https://torrent-paradise.ml",
+		"source": "https://github.com/urbanguacamole/torrent-paradise",
+		"orignal": [
+			"https://cloudflare-ipfs.com/ipfs/QmcsjpRsLkSojdJ19PpTYoevP8ZdeCqmtEvjqa2R28rxWs"
+		]
+	},
+	"data": [
+		"https://github.com/offlineindexer/data/raw/main/torrentparadise/data/data1.zip",
+		"https://github.com/offlineindexer/data/raw/main/torrentparadise/data/data2.zip",
+		"https://github.com/offlineindexer/data/raw/main/torrentparadise/data/data3.zip",
+		"https://github.com/offlineindexer/data/raw/main/torrentparadise/data/data4.zip",
+		"https://github.com/offlineindexer/data/raw/main/torrentparadise/data/data5.zip",
+		"https://github.com/offlineindexer/data/raw/main/torrentparadise/data/data6.zip"
+	]
+}
